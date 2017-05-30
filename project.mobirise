@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Movie Ticket",
-    "currentPage": "Homepage.html",
+    "currentPage": "Watch-John-Wick-Chapter-2-2017.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -682,7 +682,7 @@
               "active": true,
               "src": "https://openload.co/embed/cNy7f7ZcdZY/videoplayback.mp4",
               "aspectratio": "16:9",
-              "autoplay": "on",
+              "autoplay": false,
               "loop": false
             },
             "iconFont": {
