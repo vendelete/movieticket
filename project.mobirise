@@ -849,8 +849,8 @@
                 "playVideo": false,
                 "videoUrl": "https://openload.co/embed/cNy7f7ZcdZY/videoplayback.mp4",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mv5bmjmxodi2ndm5nl5bml5banbnxkftztgwnjgzotk1mti-2000x3169-800x1267.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjmxodi2ndm5nl5bml5banbnxkftztgwnjgzotk1mti-2000x3169.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-2000x3000.jpg",
                 "caption": "<p><a href=\"the-boss-baby-2017.html\">Watch The Boss Baby (2017)</a><a href=\"fate-of-the-furious-2017.html\"></a><a href=\"John-Wick-Chapter-2-2017.html\"></a></p>",
                 "active": true
               }
